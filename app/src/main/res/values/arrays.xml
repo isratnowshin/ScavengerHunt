@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="clues">
+        <item>Clue 0: Lives abroad</item>
+        <item>Clue 1: Hate Chinese food</item>
+        <item>Clue 2: Not afraid of cockroaches</item>
+    </string-array>
+</resources>
